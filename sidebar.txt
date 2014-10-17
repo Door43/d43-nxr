@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nxr:home|Door43 (nxr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nxr|d43-nxr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nxr/archive/master.zip|d43-nxr.zip]]
+
+**Recent Changes**
+{{changes>ns = nxr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nxr|Ethnologue data]]
+
